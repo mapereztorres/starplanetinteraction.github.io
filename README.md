@@ -1,2 +1,2 @@
 # starplanetinteraction.github.io
-Website showing some of the studies of star-planet interaction carried out at the Instituto de Astrofísica de Andalucía (IAA) of the Spanish National Research Council (CSIC)
+Website hosting information on the studies of star-planet interaction carried out at the Instituto de Astrofísica de Andalucía (IAA) of the Spanish National Research Council (CSIC), including the different facilities used, mostly radio interferometers (the upgraded Giant Metre Wave Ratio Telescope in India, the Very Larga Array in the USA, the MeerKAT interferometer in South Africa, the e-MERLIN array in the UK, or the international LOFAR telescope), along with the group members. 
